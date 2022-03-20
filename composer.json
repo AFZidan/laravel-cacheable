@@ -1,5 +1,5 @@
 {
-    "name": "AFZidan/laravel-cacheable",
+    "name": "ahmedzidan/laravel-cacheable",
     "description": "Rinvex Cacheable is a granular, intuitive, and fluent caching system for eloquent models. Simple, but yet powerful, plug-n-play with no hassle.",
     "type": "library",
     "keywords": [
